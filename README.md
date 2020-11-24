@@ -17,10 +17,10 @@ The project is composed by two Android applications and an Express.js Web Server
 
 ## Android Applications
 
-<img src="https://i.imgur.com/aoIJrH5.png" alt="drawing" width="150 style="display:inline" />
-<img src="https://i.imgur.com/Pf8l6A6.png" alt="drawing" width="150" style="display:inline"/>
-<img src="https://i.imgur.com/5BmRfVs.png" alt="drawing" width="150" style="display:inline"/>
-<img src="https://i.imgur.com/M46yVEi.png" alt="drawing" width="150" style="display:inline"/>
+<img src="https://i.imgur.com/aoIJrH5.png" alt="drawing" width="150" style="display:inline" />
+<img src="https://i.imgur.com/Pf8l6A6.png" alt="drawing" width="150" style="display:inline" />
+<img src="https://i.imgur.com/5BmRfVs.png" alt="drawing" width="150" style="display:inline" />
+<img src="https://i.imgur.com/M46yVEi.png" alt="drawing" width="150" style="display:inline" />
 
 The Android apps were built with **Kotlin** using the **Android Jetpack** libraries.
 
